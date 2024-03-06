@@ -74,4 +74,14 @@
 // console.log(getModels(allCars));
 
 
+// const arr = ["apple", "orange", "banana", "lemon"];
+
+// const obj = arr.reduce((acc, item) => {
+//     const itemArr = item.split(",");
+//     acc[itemArr[0]] = itemArr[1];
+//     return acc;
+// }, {})
+
+
+
 
